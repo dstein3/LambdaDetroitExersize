@@ -1,0 +1,219 @@
+[{
+    "name": "Airport Sub",
+    "avgDispatchTime": 7.482306477093206,
+    "avgTotalResponseTime": 12.24533965244866,
+    "avgTotalTime": 40.95213270142182,
+    "totalPopulation": 639111
+}, {
+    "name": "Arden Park",
+    "avgDispatchTime": 1.2100000000000002,
+    "avgTotalResponseTime": 4.0,
+    "avgTotalTime": 26.81499999999999,
+    "totalPopulation": 639111
+}, {
+    "name": "Aviation Sub",
+    "avgDispatchTime": 6.494285714285717,
+    "avgTotalResponseTime": 12.806666666666668,
+    "avgTotalTime": 43.551428571428566,
+    "totalPopulation": 639111
+}, {
+    "name": "Bagley",
+    "avgDispatchTime": 8.864162754303596,
+    "avgTotalResponseTime": 14.12503912363067,
+    "avgTotalTime": 40.8336463223787,
+    "totalPopulation": 639111
+}, {
+    "name": "Belle Isle",
+    "avgDispatchTime": 0.7,
+    "avgTotalResponseTime": 0.7,
+    "avgTotalTime": 44.85,
+    "totalPopulation": 639111
+}, {
+    "name": "Belmont",
+    "avgDispatchTime": 9.394382022471909,
+    "avgTotalResponseTime": 15.431460674157302,
+    "avgTotalTime": 45.31404494382023,
+    "totalPopulation": 639111
+}, {
+    "name": "Berg-Lahser",
+    "avgDispatchTime": 11.36941176470588,
+    "avgTotalResponseTime": 18.06764705882353,
+    "avgTotalTime": 46.204705882352954,
+    "totalPopulation": 639111
+}, {
+    "name": "Bethune Community",
+    "avgDispatchTime": 7.420974576271187,
+    "avgTotalResponseTime": 11.80052966101695,
+    "avgTotalTime": 42.30455508474572,
+    "totalPopulation": 639111
+}, {
+    "name": "Blackstone Park",
+    "avgDispatchTime": 8.080769230769231,
+    "avgTotalResponseTime": 16.213461538461537,
+    "avgTotalTime": 51.12115384615384,
+    "totalPopulation": 639111
+}, {
+    "name": "Boyston Edison",
+    "avgDispatchTime": 0.0,
+    "avgTotalResponseTime": 0.0,
+    "avgTotalTime": 0.0,
+    "totalPopulation": 639111
+}, {
+    "name": "Boynton",
+    "avgDispatchTime": 4.570370370370371,
+    "avgTotalResponseTime": 11.467989417989415,
+    "avgTotalTime": 34.71005291005288,
+    "totalPopulation": 639111
+}, {
+    "name": "Brewster Homes",
+    "avgDispatchTime": 7.544444444444446,
+    "avgTotalResponseTime": 15.840740740740742,
+    "avgTotalTime": 51.85925925925926,
+    "totalPopulation": 639111
+}, {
+    "name": "Brightmoor",
+    "avgDispatchTime": 10.387351778656127,
+    "avgTotalResponseTime": 15.637681159420275,
+    "avgTotalTime": 46.860606060606074,
+    "totalPopulation": 639111
+}, {
+    "name": "Brush Park",
+    "avgDispatchTime": 1.6524886877828053,
+    "avgTotalResponseTime": 2.3504524886877824,
+    "avgTotalTime": 11.115384615384617,
+    "totalPopulation": 639111
+}, {
+    "name": "Buffalo Charles",
+    "avgDispatchTime": 10.364485981308407,
+    "avgTotalResponseTime": 16.142523364485978,
+    "avgTotalTime": 44.434112149532695,
+    "totalPopulation": 639111
+}, {
+    "name": "Butler",
+    "avgDispatchTime": 6.901754385964912,
+    "avgTotalResponseTime": 12.451754385964911,
+    "avgTotalTime": 47.761403508771934,
+    "totalPopulation": 639111
+}, {
+    "name": "Cadillac Community",
+    "avgDispatchTime": 9.939393939393938,
+    "avgTotalResponseTime": 12.609090909090908,
+    "avgTotalTime": 40.943939393939374,
+    "totalPopulation": 639111
+}, {
+    "name": "Cadillac Heights",
+    "avgDispatchTime": 6.332972972972972,
+    "avgTotalResponseTime": 11.009729729729735,
+    "avgTotalTime": 42.19405405405406,
+    "totalPopulation": 639111
+},
+{
+    "name": "Campau/Banglatown",
+    "avgDispatchTime": 7.449999999999998,
+    "avgTotalResponseTime": 12.855882352941176,
+    "avgTotalTime": 40.84264705882351,
+    "totalPopulation": 639111
+}, {
+    "name": "Carbon Works",
+    "avgDispatchTime": 5.458620689655172,
+    "avgTotalResponseTime": 10.286206896551725,
+    "avgTotalTime": 38.94137931034483,
+    "totalPopulation": 639111
+}, {
+    "name": "Castle Rouge",
+    "avgDispatchTime": 14.732142857142852,
+    "avgTotalResponseTime": 23.1125,
+    "avgTotalTime": 72.46964285714283,
+    "totalPopulation": 639111
+}, {
+    "name": "Central Southwest",
+    "avgDispatchTime": 2.7546919431279626,
+    "avgTotalResponseTime": 5.278009478672985,
+    "avgTotalTime": 25.292985781990488,
+    "totalPopulation": 639111
+}, {
+    "name": "Chadsey Condon",
+    "avgDispatchTime": 3.2497560975609736,
+    "avgTotalResponseTime": 6.723902439024393,
+    "avgTotalTime": 28.915609756097556,
+    "totalPopulation": 639111
+}, {
+    "name": "Chalfonte",
+    "avgDispatchTime": 3.3566371681415923,
+    "avgTotalResponseTime": 7.4530973451327425,
+    "avgTotalTime": 34.43938053097345,
+    "totalPopulation": 639111
+}, {
+    "name": "Chandler Park",
+    "avgDispatchTime": 9.819211822660096,
+    "avgTotalResponseTime": 13.551724137931034,
+    "avgTotalTime": 36.06798029556649,
+    "totalPopulation": 639111
+}, {
+    "name": "Chandler-Park Chalmers",
+    "avgDispatchTime": 0.0,
+    "avgTotalResponseTime": 0.0,
+    "avgTotalTime": 0.0,
+    "totalPopulation": 639111
+}, {
+    "name": "Claytown",
+    "avgDispatchTime": 3.9281473899692965,
+    "avgTotalResponseTime": 7.338996929375635,
+    "avgTotalTime": 27.23224155578299,
+    "totalPopulation": 639111
+}, {
+    "name": "College Park",
+    "avgDispatchTime": 8.856222547584188,
+    "avgTotalResponseTime": 12.558272327964858,
+    "avgTotalTime": 34.54714494875552,
+    "totalPopulation": 639111
+}, {
+    "name": "Conant Gardens",
+    "avgDispatchTime": 3.2721518987341773,
+    "avgTotalResponseTime": 4.908227848101266,
+    "avgTotalTime": 18.539873417721516,
+    "totalPopulation": 639111
+}, {
+    "name": "Conner Creek",
+    "avgDispatchTime": 7.19490291262136,
+    "avgTotalResponseTime": 11.56092233009709,
+    "avgTotalTime": 33.802669902912626,
+    "totalPopulation": 639111
+}, {
+    "name": "Conner Creek Industrial",
+    "avgDispatchTime": 5.150510204081634,
+    "avgTotalResponseTime": 7.509693877551021,
+    "avgTotalTime": 25.81377551020411,
+    "totalPopulation": 639111
+}, {
+    "name": "Core City",
+    "avgDispatchTime": 4.0414012738853495,
+    "avgTotalResponseTime": 7.883439490445862,
+    "avgTotalTime": 29.142675159235665,
+    "totalPopulation": 639111
+}, {
+    "name": "Corktown",
+    "avgDispatchTime": 1.2928899082568803,
+    "avgTotalResponseTime": 3.3380733944954124,
+    "avgTotalTime": 21.896788990825662,
+    "totalPopulation": 639111
+}, {
+    "name": "Cornerstone Village",
+    "avgDispatchTime": 11.82578125,
+    "avgTotalResponseTime": 17.643554687499996,
+    "avgTotalTime": 51.240234375,
+    "totalPopulation": 639111
+}, {
+    "name": "Crary/St Marys",
+    "avgDispatchTime": 17.86443914081146,
+    "avgTotalResponseTime": 25.60644391408115,
+    "avgTotalTime": 55.78162291169453,
+    "totalPopulation": 639111
+}, {
+    "name": "Cultural Center",
+    "avgDispatchTime": 1.602985074626866,
+    "avgTotalResponseTime": 2.971940298507462,
+    "avgTotalTime": 27.06805970149253,
+    "totalPopulation": 639111
+}
+]
